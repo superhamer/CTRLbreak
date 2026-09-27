@@ -10,34 +10,17 @@ Built for people who sit too much and forget to stand up.
 
 ## Highlights
 
-- **Schedules that match real workdays** — create multiple named schedules with weekdays, start and end times, and a break interval. Weekends off, mornings off, custom routines — it just works.
-- **One-tap breaks** — reminders launch straight into the break experience, even when the app was fully closed. No digging through menus.
-- **12 desk-friendly stretches** — neck, shoulders, back, hips, wrists, and legs. Illustrated guides take the guesswork out of every move.
-- **Your rotation, your rules** — let CTRL Break surprise you with a random stretch, or hand-pick exactly which stretches appear.
-- **A missed-break nudge** — ignore a reminder and the app can send one gentle follow-up a few minutes later. Start the break and the nudge disappears. Accountability without nagging.
-- **An experience, not an alarm** — animated scenes, relaxing ambience, and thoughtfully chosen quotes make the minute something to look forward to.
-- **Break history** — track how many breaks you've taken today and all-time, and watch the habit compound.
+- **Breaks that fit your workday** — reminders arrive around your own working hours, on the days you choose.
+- **One tap and you're stretching** — a reminder takes you straight into a calm, one-minute break.
+- **Made to be looked forward to** — peaceful visuals, soft ambience, and a thought to carry into the rest of your day.
+- **Built for building a habit** — gentle accountability when you miss a break, and a simple record of the streak you're creating.
 
 ## How It Works
 
 1. Create a schedule — days, hours, and how often you want a break.
-2. Allow notifications when asked.
-3. Go about your day.
-4. When a reminder arrives, tap it. Your one-minute break starts immediately.
+2. Go about your day.
 
 ## Getting Started
-
-**Requirements**
-
-- iPhone running iOS 18 or later
-- [Xcode](https://apps.apple.com/us/app/xcode/id497799835) 16 or later (to build from source)
-
-**Build and run**
-
-1. Clone this repository.
-2. Open `CTRLBreak.xcodeproj` in Xcode.
-3. Select a simulator or your device and press **Run**.
-4. Create your first schedule and allow notifications.
 
 ## Privacy
 
@@ -50,12 +33,6 @@ Yes. Reminders are delivered through iOS notifications and tap straight into you
 
 **Can I have different schedules for different routines?**
 Yes — create as many schedules as you like, each with its own days, hours, interval, and on/off switch.
-
-**What if I ignore a reminder?**
-If you enable missed-break reminders, the app sends one follow-up nudge a few minutes later. Starting any break cancels it.
-
-**Can I choose the stretches?**
-Yes — random rotation or a hand-picked set, whichever suits you.
 
 **Is my data private?**
 Completely. Everything stays on your device.
